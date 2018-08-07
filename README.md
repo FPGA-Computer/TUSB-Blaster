@@ -27,3 +27,4 @@ as my IDE.  Win32 Util can be compileed with Pelles C for windows.
 
 TUSB Blaster schematic/layout are Eagle CAD 6.5.0 files.
 
+Project page: http://hw-by-design.blogspot.com/2018/08/tusb-blaster.html
